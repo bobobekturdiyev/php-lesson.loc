@@ -21,7 +21,7 @@ function olNimadir(...$data){
 echo olNimadir(1, 2, 3, 4, 5, 6, 7, 8);
 
 $user_data = [
-    "name" => "Temurbek",
+    "name" => "Shodmonbek",
     "age" => 19,
     "is_married" => false,
     "is_fallen_in_love" => false,
